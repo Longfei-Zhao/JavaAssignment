@@ -1,0 +1,22 @@
+#style-1 {
+    -fx-font: 80px tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #3714ff 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1.5;
+}
+.menu-bar {
+    -fx-min-width: 750;
+    -fx-min-height: 30;
+}
+.hbox {
+    -fx-padding: 10 0 0 10;
+    -fx-min-width: 750;
+    -fx-font-size: 12;
+    -fx-color-label-visible: #2c3e50;
+    -fx-translate-y: 30;
+    -fx-spacing: 10;
+}
+
+.check-box {
+    -fx-text-fill: #2980b9;
+}

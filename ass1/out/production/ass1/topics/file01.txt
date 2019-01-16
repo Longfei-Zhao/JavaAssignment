@@ -1,0 +1,8 @@
+fire
+smoke
+burn
+bush
+grass
+flame
+haze
+emergency

@@ -1,0 +1,6 @@
+#style-1 {
+    -fx-font: 80px tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #3714ff 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1.5;
+}

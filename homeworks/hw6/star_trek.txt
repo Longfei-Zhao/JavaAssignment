@@ -1,0 +1,10 @@
+Captain,Jean-Luc Picard,M,50
+Commander,William T. Riker,M,40
+Lt. Commander,Geordi La Forge,M,35
+Lieutenant,Worf,M,28
+Dr.,Beverly Crusher,F,43
+Counselor,Deanna Troi,F,33
+Lt. Commander,Data,A,22
+,Guinan,F,41
+,Wesley Crusher,M,17
+Dr.,Katherine Pulaski,F,27

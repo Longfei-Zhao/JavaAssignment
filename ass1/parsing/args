@@ -1,0 +1,3 @@
+-d bin
+-g
+-cp jackson/jackson-annotations-2.8.7.jar:jackson/jackson-core-2.8.7.jar:jackson/jackson-databind-2.8.7.jar
